@@ -1,5 +1,7 @@
 # Minefort drop plugins
 
+Note: you might have to modify it to include cookies the script as is no longer works
+
 Adds a drop area on the main screen to directly drop plugins onto so you dont have to navigate to the plugins folder
 
 Useful if you are uploading a new plugin update very often
